@@ -1,0 +1,17 @@
+{
+  "login": "Логин",
+  "login_btn": "Войти",
+  "login_title": "Авторизация",
+  "password": "Пароль",
+
+  "change_language": "Выберите язык",
+  "search": "Поиск ...",
+  "date": "Дата или интервал",
+
+  "table_subject": "Сюжет",
+  "table_title": "Заголовок",
+  "table_date": "Дата публикации",
+  "table_from": "Источник",
+  "table_bal": "Оценка",
+  "table_rel": "Релевантность"
+}
